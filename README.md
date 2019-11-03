@@ -17,9 +17,9 @@
 **Snapshot Execution:**
 ```bash
 node ./solidity/scripts/snapshot/run.js
-    Output file name (airdrop.txt)
-    Token contract address (0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C)
-    Vault contract address (0xf1A5C3EDA198BD3eE097Ac4b8340E4d47C9D4679)
+    Output file name (e.g. airdrop.txt)
+    Token contract address (e.g. 0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C)
+    Vault contract address (e.g. 0xf1A5C3EDA198BD3eE097Ac4b8340E4d47C9D4679)
     Etherscan developer key
     Infura developer key
     Last block number
@@ -28,7 +28,7 @@ node ./solidity/scripts/snapshot/run.js
 **Airdrop Execution:**
 ```bash
 node ./solidity/scripts/airdrop/run.js
-    Input file name (airdrop.txt)
+    Input file name (e.g. airdrop.txt)
     Configuration file name
     Ethereum node address
     Account private key
