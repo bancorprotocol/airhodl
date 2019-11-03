@@ -1,0 +1,17 @@
+{
+    "totalReserve": 10000000,
+    "totalSupply" : 10000000,
+    "vestingTime" : 10,
+    "withdrawals" : [
+        {"currentTime":  1, "inputAmount": 1000000},
+        {"currentTime":  2, "inputAmount": 1000000},
+        {"currentTime":  3, "inputAmount": 1000000},
+        {"currentTime":  4, "inputAmount": 1000000},
+        {"currentTime":  5, "inputAmount": 1000000},
+        {"currentTime":  6, "inputAmount": 1000000},
+        {"currentTime":  7, "inputAmount": 1000000},
+        {"currentTime":  8, "inputAmount": 1000000},
+        {"currentTime":  9, "inputAmount": 1000000},
+        {"currentTime": 10, "inputAmount": 1000000}
+    ]
+}
