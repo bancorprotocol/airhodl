@@ -85,7 +85,7 @@ const fileNames = [
 ];
 
 for (const fileName of fileNames) {
-    const url = "https://raw.githubusercontent.com/bancorprotocol/contracts/0.5.4/" + fileName;
+    const url = "https://raw.githubusercontent.com/bancorprotocol/contracts/master/" + fileName;
     const options = {directory: path.dirname(fileName), filename: path.basename(fileName)};
     console.log("Installing " + options.directory + options.filename);
     download(url, options, function(error) {if (error) throw error;});
