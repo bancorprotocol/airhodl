@@ -4,7 +4,7 @@
   "author": "Barak Manos",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/bancor/airhodl"
+    "url": "https://github.com/bancorprotocol/airhodl"
   },
   "engines": {
     "npm": "^3.0.0"
