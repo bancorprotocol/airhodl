@@ -59,7 +59,6 @@ const fileNames = [
     "solidity/contracts/converter/interfaces/IBancorConverter.sol",
     "solidity/contracts/converter/interfaces/IBancorConverterUpgrader.sol",
     "solidity/contracts/converter/interfaces/IBancorFormula.sol",
-    "solidity/contracts/helpers/Migrations.sol",
     "solidity/contracts/token/ERC20Token.sol",
     "solidity/contracts/token/EtherToken.sol",
     "solidity/contracts/token/SmartToken.sol",
