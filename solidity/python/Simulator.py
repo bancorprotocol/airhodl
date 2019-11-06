@@ -1,7 +1,7 @@
 from sys import argv
 from json import loads
 
-with open(argv[1] if len(argv) > 1 else "SimulationExample.json") as file:
+with open(argv[1] if len(argv) > 1 else "Example.json") as file:
     simulation   = loads(file.read())
     totalReserve = simulation["totalReserve"]
     totalSupply  = simulation["totalSupply" ]
