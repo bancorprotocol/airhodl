@@ -17,4 +17,4 @@
 
 **Vesting Simulation:**
 - Use `python ./solidity/python/Simulator.py`
-- Change `python ./solidity/python/SimulationExample.json` as needed
+- Change `./solidity/python/SimulationExample.json` as needed
