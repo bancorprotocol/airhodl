@@ -8,8 +8,6 @@ module.exports = {
         "ContractIds.sol",
         "FeatureIds.sol",
         "IBancorNetwork.sol",
-        "IConverter.sol",
-        "IVault.sol",
         "bancorx/interfaces/IBancorX.sol",
         "converter/BancorConverter.sol",
         "converter/BancorFormula.sol",

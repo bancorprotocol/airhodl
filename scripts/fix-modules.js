@@ -41,15 +41,6 @@ fix("./node_modules/solidity-coverage/lib/coverageMap.js", [
 );
 
 const fileNames = [
-    "solidity/build/BancorConverter.abi",
-    "solidity/build/BancorConverter.bin",
-    "solidity/build/ContractRegistry.abi",
-    "solidity/build/ContractRegistry.bin",
-    "solidity/build/EtherToken.abi",
-    "solidity/build/EtherToken.bin",
-    "solidity/build/IERC20Token.abi",
-    "solidity/build/SmartToken.abi",
-    "solidity/build/SmartToken.bin",
     "solidity/contracts/ContractIds.sol",
     "solidity/contracts/FeatureIds.sol",
     "solidity/contracts/IBancorNetwork.sol",
