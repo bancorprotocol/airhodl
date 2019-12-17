@@ -41,7 +41,6 @@ fix("./node_modules/solidity-coverage/lib/coverageMap.js", [
 );
 
 const fileNames = [
-    "solidity/contracts/ContractIds.sol",
     "solidity/contracts/FeatureIds.sol",
     "solidity/contracts/IBancorNetwork.sol",
     "solidity/contracts/bancorx/interfaces/IBancorX.sol",
@@ -60,6 +59,7 @@ const fileNames = [
     "solidity/contracts/token/interfaces/ISmartToken.sol",
     "solidity/contracts/token/interfaces/ISmartTokenController.sol",
     "solidity/contracts/utility/ContractRegistry.sol",
+    "solidity/contracts/utility/ContractRegistryClient.sol",
     "solidity/contracts/utility/Managed.sol",
     "solidity/contracts/utility/Owned.sol",
     "solidity/contracts/utility/SafeMath.sol",

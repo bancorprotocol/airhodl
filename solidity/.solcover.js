@@ -5,7 +5,6 @@ module.exports = {
     testCommand:    "node ../../node_modules/truffle/build/cli.bundled.js test --network=coverage",
     compileCommand: "node ../../node_modules/truffle/build/cli.bundled.js compile --network=coverage",
     skipFiles:      [
-        "ContractIds.sol",
         "FeatureIds.sol",
         "IBancorNetwork.sol",
         "bancorx/interfaces/IBancorX.sol",
@@ -25,6 +24,7 @@ module.exports = {
         "token/interfaces/ISmartToken.sol",
         "token/interfaces/ISmartTokenController.sol",
         "utility/ContractRegistry.sol",
+        "utility/ContractRegistryClient.sol",
         "utility/Managed.sol",
         "utility/Owned.sol",
         "utility/SafeMath.sol",
