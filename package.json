@@ -19,7 +19,7 @@
     "download-file": "0.1.5",
     "ganache-cli": "6.7.0",
     "solidity-coverage": "0.6.7",
-    "truffle": "4.1.16",
+    "truffle": "5.8.4",
     "truffle-flattener": "1.2.10"
   }
 }
